@@ -5,3 +5,6 @@
 	path = public
 	url = git@github.com:DJE98/DJE98.github.io.git
 	branch = main
+[submodule "themes/meme"]
+	path = themes/meme
+	url = https://github.com/reuixiy/hugo-theme-meme.git
